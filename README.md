@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/niksbrovs/vrcade.png?label=ready&title=Ready)](https://waffle.io/niksbrovs/vrcade?utm_source=badge)
 # vrcade
 
 > Nuxt.js project
